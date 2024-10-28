@@ -9,3 +9,4 @@ while check < len(numbers):
     else:
         check += 1
 print("Remaining odd numbers:", numbers)
+
